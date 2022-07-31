@@ -79,3 +79,9 @@ footer {
 #contact {
     background-color: #F0D394;
 }
+
+@media (max-width: 1080px) {
+    #about-me {
+        text-align: center;
+    }
+}
